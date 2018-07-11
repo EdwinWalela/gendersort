@@ -1,9 +1,2 @@
 ﻿  studentSystem.cpp
-c:\users\edwin walela\source\repos\studentsystem\studentsystem\studentsystem.cpp(73): warning C4018: '<': signed/unsigned mismatch
-c:\users\edwin walela\source\repos\studentsystem\studentsystem\studentsystem.cpp(82): warning C4018: '<': signed/unsigned mismatch
-c:\users\edwin walela\source\repos\studentsystem\studentsystem\studentsystem.cpp(92): warning C4018: '<': signed/unsigned mismatch
-c:\users\edwin walela\source\repos\studentsystem\studentsystem\studentsystem.cpp(122): warning C4018: '<': signed/unsigned mismatch
-c:\users\edwin walela\source\repos\studentsystem\studentsystem\studentsystem.cpp(131): warning C4018: '<': signed/unsigned mismatch
-c:\users\edwin walela\source\repos\studentsystem\studentsystem\studentsystem.cpp(139): warning C4018: '<': signed/unsigned mismatch
-c:\users\edwin walela\source\repos\studentsystem\studentsystem\studentsystem.cpp(181): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   studentSystem.vcxproj -> C:\Users\Edwin Walela\source\repos\studentSystem\Debug\studentSystem.exe
